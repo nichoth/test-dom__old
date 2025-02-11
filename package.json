@@ -20,7 +20,7 @@
     "test": "esbuild --bundle test/test.js | tape-run | tap-arc"
   },
   "devDependencies": {
-    "esbuild": "0.19.10",
+    "esbuild": "0.25.0",
     "tap-arc": "1.2.2",
     "tape-run": "11.0.0",
     "@nichoth/tapzero": "^0.8.4",
